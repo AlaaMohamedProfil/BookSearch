@@ -1,0 +1,9 @@
+1;In Search of Lost Time;Marcel Proust;wann's Way, the first part of A la recherche de temps perdu, Marcel Proust's seven-part cycle, was published in 1913.
+2;Dominicana;Angie Cruz;Loosely based on her mother’s immigrant journey from the Dominican Republic to New York, Cruz’s story follows 15-year-old Ana, the new wife of an older, soon-to-be abusive, struggling immigrant husband, from her home village to Washington Heights.
+3;Circe;Madeline Miller;Madeline Miller has mastered two specific skills: writing gorgeous prose and reimagining ancient Greek literature in powerful ways.
+4;Asymmetry;Lisa Halliday;"In 'Asymmetry,' two seemingly unrelated sections are connected by a shocking coda. The first
+5;Educated;Tara Westover;"The seventh child of Mormon survivalist parents, Tara Westover grew up on a remote mountain in Idaho and spent her childhood working in a scrapyard.
+6;All About Love;bell hooks;We're taught to think of love as something that happens to us. It's a magical but altogether passive experience. In her deeply personal and emphatic All About Love
+7;The Count of Monte Cristo;Alexandre Dumas;A revenge thriller also set in France after Bonaparte: a masterpiece of adventure writing
+8;1984;George Orwell;Among the seminal texts of the 20th century, Nineteen Eighty-Four is a rare work that grows more haunting as its futuristic purgatory becomes more real.
+9;The Great Gatsby;F. Scott Fitzgerald;THE GREAT GATSBY, F. Scott Fitzgerald's third book, stands as the supreme achievement of his career.
